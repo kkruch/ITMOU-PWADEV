@@ -34,3 +34,4 @@ def f1(a,b,name=None):
         return perim(a,b)
 
 print(f1(a,b,name='plosh'), f1(a,b,name='perim'))
+"""
